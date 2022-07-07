@@ -1,4 +1,4 @@
-Network Science Group 9, Assignment Two
+Network Science, assignment
 ================
 - Elviss Dvinskis, 2459302
 - Maryam Afshari, 5117259
