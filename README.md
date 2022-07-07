@@ -1,11 +1,11 @@
-Network Analysis Group 9, Assignment Two
+Network Science Group 9, Assignment Two
 ================
 - Elviss Dvinskis, 2459302
 - Maryam Afshari, 5117259
 - Wulan Putri Handrajati,
 7369921
 - Koray Poyraz, 5367646
-- Date: 3/12/2022
+- Deadline: 3/12/2022
 
 ``` r
 library(igraph) 
