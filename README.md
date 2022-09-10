@@ -1,11 +1,5 @@
 Network Science, assignment
 ================
-- Elviss Dvinskis, 2459302
-- Maryam Afshari, 5117259
-- Wulan Putri Handrajati,
-7369921
-- Koray Poyraz, 5367646
-- Deadline: 3/12/2022
 
 ``` r
 library(igraph) 
