@@ -1,4 +1,4 @@
-Network Science, assignment
+Network Science
 ================
 
 ``` r
